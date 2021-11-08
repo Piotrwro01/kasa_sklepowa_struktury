@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Katarzyna\\Desktop\\c#\\kasasklepowarepo\\CS_kasa_sklepowa.csproj": {}
+    "P:\\Csharp\\kasa-sklepowa-repo\\CS_kasa_sklepowa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Katarzyna\\Desktop\\c#\\kasasklepowarepo\\CS_kasa_sklepowa.csproj": {
+    "P:\\Csharp\\kasa-sklepowa-repo\\CS_kasa_sklepowa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Katarzyna\\Desktop\\c#\\kasasklepowarepo\\CS_kasa_sklepowa.csproj",
+        "projectUniqueName": "P:\\Csharp\\kasa-sklepowa-repo\\CS_kasa_sklepowa.csproj",
         "projectName": "CS_kasa_sklepowa",
-        "projectPath": "C:\\Users\\Katarzyna\\Desktop\\c#\\kasasklepowarepo\\CS_kasa_sklepowa.csproj",
-        "packagesPath": "C:\\Users\\Katarzyna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Katarzyna\\Desktop\\c#\\kasasklepowarepo\\obj\\",
+        "projectPath": "P:\\Csharp\\kasa-sklepowa-repo\\CS_kasa_sklepowa.csproj",
+        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+        "outputPath": "P:\\Csharp\\kasa-sklepowa-repo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Katarzyna\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

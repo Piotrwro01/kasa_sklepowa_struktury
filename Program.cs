@@ -94,6 +94,8 @@ namespace CS_kasa_sklepowa
                 produkty[a].WyswietlProduktDoParagonu(j);
                 j++; 
             }
+
+            //komentarz przykładowy
         }
     }
 }
