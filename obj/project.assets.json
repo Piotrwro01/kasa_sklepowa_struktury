@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\Csharp\\CS_kasa_sklepowa\\CS_kasa_sklepowa.csproj",
+      "projectUniqueName": "P:\\Csharp\\kasa-sklepowa-repo\\CS_kasa_sklepowa.csproj",
       "projectName": "CS_kasa_sklepowa",
-      "projectPath": "P:\\Csharp\\CS_kasa_sklepowa\\CS_kasa_sklepowa.csproj",
+      "projectPath": "P:\\Csharp\\kasa-sklepowa-repo\\CS_kasa_sklepowa.csproj",
       "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-      "outputPath": "P:\\Csharp\\CS_kasa_sklepowa\\obj\\",
+      "outputPath": "P:\\Csharp\\kasa-sklepowa-repo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
