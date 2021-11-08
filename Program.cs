@@ -46,8 +46,14 @@ namespace CS_kasa_sklepowa
         }
 
 
+        //--------------------->     MAIN
+
         static void Main(string[] args)
+
         {
+            Random rnd = new Random();
+            int numerParagonu = rnd.Next(15893, 16892);
+
             //definiowanie produktów według listy
             produkt[] produkty = new produkt[5];
             produkty[0].nazwa = "jablka";
@@ -67,12 +73,19 @@ namespace CS_kasa_sklepowa
             produkty[4].kgIlosc = false;
 
             //------------DIALOG Z GRACZEM-------------------
+            POCZATEK:
             int wybor = 0; //podstawowy int do podejmowania decyzji
             List<int> listaZakupow = new List<int>();  // tabela z zapisanymi produktami oraz ich kolejnoscia
             for (int i = 0; wybor != 10; i++)
             {
                 Console.Write("Siema ziomeczku, co dodac? (10 oznacza wydruk paragonu) \n   1. Jabłka \n   2. Jajka (12 szt. w opakowaniu) \n   3. Karton mleka \n   4. Bułkę kaizerka \n   5. Foliową reklamówkę \n");
+                PONOWNYWYBOR:
                 wybor = int.Parse(Console.ReadLine());
+                if ((wybor < 1 || wybor > 5) && wybor != 10)
+                {
+                    Console.WriteLine("Ty normalny jestes?");
+                    goto PONOWNYWYBOR;
+                }
                 if (wybor != 10) // dodawanie produktów do listy zakupów
                 {
                     wybor--;
@@ -86,7 +99,7 @@ namespace CS_kasa_sklepowa
             }//koniec dodawania produktów
 
             //------------WYSWIETLANIE PARAGONU-------------------
-            Console.WriteLine("     -----           PARAGON NR. 14470           -----");
+            Console.WriteLine("     -----           PARAGON NR. " + numerParagonu + "           -----");
             Console.WriteLine("SKLEPU HANDOLWEGO '5PRODUKTÓW I WSZYSTKO MASZ' SP. z O. O.\n");
             int j = 0;
             foreach(int a in listaZakupow)
@@ -101,10 +114,21 @@ namespace CS_kasa_sklepowa
                 cenaZaCalosc = cenaZaCalosc + produkty[a].cenaRazyIlosc;
 
             }
-            Console.WriteLine("wynik " + String.Format("{ 0:0.00}", cenaZaCalosc)+" zł");
 
+            Console.WriteLine("wynik "+ String.Format("{0:0.00}", cenaZaCalosc)+" zł");
+            Przerywnik();
 
-            //komentarz przykładowy as
+            //NASTEPNY RACHUNEK
+            Console.WriteLine("Drogi kasjerze/kasjereczko czy masz następnego frajera? (t/n)");
+            char nastepnyKlient = char.Parse(Console.ReadLine());
+            if(nastepnyKlient == 't'){
+                Console.Clear();
+                Przerywnik();
+                numerParagonu++;
+                goto POCZATEK;
+            }else{
+                Console.WriteLine("nara");
+            }
 
         }
     }
