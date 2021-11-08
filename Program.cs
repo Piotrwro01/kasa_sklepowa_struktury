@@ -95,7 +95,8 @@ namespace CS_kasa_sklepowa
                 j++; 
             }
 
-            //komentarz przykładowy
+            //komentarz przykładowy kuhwkhukwt
+
         }
     }
 }
