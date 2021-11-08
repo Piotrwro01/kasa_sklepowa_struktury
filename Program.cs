@@ -38,7 +38,7 @@ namespace CS_kasa_sklepowa
             public void WyswietlProduktDoParagonu(int index) // wyswietla sformatowane dane o produkcie do paragonu
             {
                 index++;
-                Console.Write(index + ". " + nazwa + " x " + String.Format("{0:0.00}", ));
+                Console.Write(index + ". " + nazwa + " x " + String.Format("{0:0.00}", cena));
                 if (kgIlosc) Console.Write(" za 1 kg ");
                 else Console.Write(" za sztuke ");
                 Console.Write(" = " + String.Format("{0:0.00}", cenaRazyIlosc) + " zł\n");
@@ -94,8 +94,16 @@ namespace CS_kasa_sklepowa
                 produkty[a].WyswietlProduktDoParagonu(j);
                 j++; 
             }
+            Przerywnik();
+            double cenaZaCalosc = 0;
+            foreach(int a in listaZakupow)
+            {
+                cenaZaCalosc = cenaZaCalosc + produkty[a].cenaRazyIlosc;
 
-            //komentarz przykładowy kuhwkhukwt
+            }
+            Console.WriteLine("wynik " + String.Format("{ 0:0.00}", cenaZaCalosc)+" zł");
+
+            //komentarz przykładowy 
 
         }
     }

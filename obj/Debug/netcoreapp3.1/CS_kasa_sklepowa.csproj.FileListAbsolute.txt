@@ -11,3 +11,17 @@ P:\Csharp\CS_kasa_sklepowa\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.csproj.CoreC
 P:\Csharp\CS_kasa_sklepowa\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.dll
 P:\Csharp\CS_kasa_sklepowa\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.pdb
 P:\Csharp\CS_kasa_sklepowa\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.genruntimeconfig.cache
+C:\Users\Katarzyna\Desktop\c#\kasasklepowarepo\bin\Debug\netcoreapp3.1\CS_kasa_sklepowa.exe
+C:\Users\Katarzyna\Desktop\c#\kasasklepowarepo\bin\Debug\netcoreapp3.1\CS_kasa_sklepowa.deps.json
+C:\Users\Katarzyna\Desktop\c#\kasasklepowarepo\bin\Debug\netcoreapp3.1\CS_kasa_sklepowa.runtimeconfig.json
+C:\Users\Katarzyna\Desktop\c#\kasasklepowarepo\bin\Debug\netcoreapp3.1\CS_kasa_sklepowa.runtimeconfig.dev.json
+C:\Users\Katarzyna\Desktop\c#\kasasklepowarepo\bin\Debug\netcoreapp3.1\CS_kasa_sklepowa.dll
+C:\Users\Katarzyna\Desktop\c#\kasasklepowarepo\bin\Debug\netcoreapp3.1\CS_kasa_sklepowa.pdb
+C:\Users\Katarzyna\Desktop\c#\kasasklepowarepo\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.csproj.AssemblyReference.cache
+C:\Users\Katarzyna\Desktop\c#\kasasklepowarepo\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katarzyna\Desktop\c#\kasasklepowarepo\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.AssemblyInfoInputs.cache
+C:\Users\Katarzyna\Desktop\c#\kasasklepowarepo\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.AssemblyInfo.cs
+C:\Users\Katarzyna\Desktop\c#\kasasklepowarepo\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.csproj.CoreCompileInputs.cache
+C:\Users\Katarzyna\Desktop\c#\kasasklepowarepo\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.dll
+C:\Users\Katarzyna\Desktop\c#\kasasklepowarepo\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.pdb
+C:\Users\Katarzyna\Desktop\c#\kasasklepowarepo\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.genruntimeconfig.cache
