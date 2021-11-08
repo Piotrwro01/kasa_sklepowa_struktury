@@ -1,0 +1,13 @@
+P:\Csharp\CS_kasa_sklepowa\bin\Debug\netcoreapp3.1\CS_kasa_sklepowa.exe
+P:\Csharp\CS_kasa_sklepowa\bin\Debug\netcoreapp3.1\CS_kasa_sklepowa.deps.json
+P:\Csharp\CS_kasa_sklepowa\bin\Debug\netcoreapp3.1\CS_kasa_sklepowa.runtimeconfig.json
+P:\Csharp\CS_kasa_sklepowa\bin\Debug\netcoreapp3.1\CS_kasa_sklepowa.runtimeconfig.dev.json
+P:\Csharp\CS_kasa_sklepowa\bin\Debug\netcoreapp3.1\CS_kasa_sklepowa.dll
+P:\Csharp\CS_kasa_sklepowa\bin\Debug\netcoreapp3.1\CS_kasa_sklepowa.pdb
+P:\Csharp\CS_kasa_sklepowa\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.csprojAssemblyReference.cache
+P:\Csharp\CS_kasa_sklepowa\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.AssemblyInfoInputs.cache
+P:\Csharp\CS_kasa_sklepowa\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.AssemblyInfo.cs
+P:\Csharp\CS_kasa_sklepowa\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.csproj.CoreCompileInputs.cache
+P:\Csharp\CS_kasa_sklepowa\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.dll
+P:\Csharp\CS_kasa_sklepowa\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.pdb
+P:\Csharp\CS_kasa_sklepowa\obj\Debug\netcoreapp3.1\CS_kasa_sklepowa.genruntimeconfig.cache

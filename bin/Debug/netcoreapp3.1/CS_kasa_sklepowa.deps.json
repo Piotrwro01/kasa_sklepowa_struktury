@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CS_kasa_sklepowa/1.0.0": {
+        "runtime": {
+          "CS_kasa_sklepowa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS_kasa_sklepowa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
