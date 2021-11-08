@@ -103,7 +103,8 @@ namespace CS_kasa_sklepowa
             }
             Console.WriteLine("wynik " + String.Format("{ 0:0.00}", cenaZaCalosc)+" zł");
 
-            //komentarz przykładowy 
+
+            //komentarz przykładowy as
 
         }
     }
